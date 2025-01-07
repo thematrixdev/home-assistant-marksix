@@ -10,7 +10,6 @@
 6. Enter `https://github.com/thematrixdev/home-assistant-marksix` and choose `Integration`, click `ADD`
 7. Find and click on `Mark Six HK` in the `custom repositories` list
 8. Click the `DOWNLOAD` button in the bottom right hand corner
-9. Restart Home-Assistant ***(You have to restart before proceeding)***
 
 ## Install
 
@@ -18,6 +17,7 @@
 2. Click the `Add Integration` button
 3. Search `Mark Six HK`
 4. Go through the configuration flow
+5. Restart Home Assistant
 
 ## Debug
 
